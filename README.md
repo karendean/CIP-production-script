@@ -1,6 +1,7 @@
 # XD:CIP FINAL SCRIPT
 1. Login
   1. username: super.user
+    1. eeee
   1. password: password123
 1. Go to Sysadmin app
   1. click new
